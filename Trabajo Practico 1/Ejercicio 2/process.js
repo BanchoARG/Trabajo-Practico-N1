@@ -1,10 +1,10 @@
 
-    const text1 = `Hi guys!. `;
-    const text2 = `We are in Programming class`;
+    const text1 = `Hola chicos.`;
+    const text2 = `Estamos en la clase de programacion`;
 
 
-    function getString(value1, value2){
-        return text1 + text2;
+    function getString(text1, text2){
+        return `${text1} ${text2}
         
     };
 
